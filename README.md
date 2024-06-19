@@ -2,6 +2,7 @@
   <head>
     <title>
       site wellington
+      subsite
     </title>
   </head>
   <body>
